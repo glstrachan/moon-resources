@@ -3,7 +3,7 @@
   "language.region": "The Moon",
   "item.minecraft.netherite_axe": "War Axe of the Night",
   "item.minecraft.netherite_pickaxe": "Lights Bane Pickaxe",
-  "item.minecraft.netherite_hoe": "Deathly Hoe",
+  "item.minecraft.netherite_hoe": "Reaper's Scythe",
   "item.minecraft.netherite_shovel": "Grave Digger",
   "item.minecraft.netherite_sword": "Nightmare Sword",
   "block.minecraft.oak_sapling": "Oak Seed",
@@ -13,5 +13,7 @@
   "block.minecraft.acacia_sapling": "Acacia Seed",
   "block.minecraft.dark_oak_sapling": "Dark Oak Seed",
   "item.minecraft.golden_apple": "Donut",
+  "item.minecraft.emerald": "Emerald Ingot",
+  "item.minecraft.diamond": "Diamond Ingot",
   "item.minecraft.enchanted_golden_apple": "Enchanted Donut"
 }
